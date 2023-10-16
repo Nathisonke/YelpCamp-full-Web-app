@@ -1,7 +1,7 @@
 # YelpCamp-full-app
 
 
-YelpCamp is a full-stack web Application designed to feature, rate, and review different campgrounds, The app performs CRUD operations for users, the campground, and the reviews.
+YelpCamp is a full-stack web Application designed to feature, rate, and review different campgrounds, The app performs CRUD ( CREATE, READ, UPDATE, DELETE) operations for the users, 0n the campgrounds, and the reviews.
 
 YelpCamp will play an essential role in making decisions like choosing a campground. This system heavily relies on individuals voluntarily submitting reviews to build a reputation for nearby businesses.
 
@@ -14,7 +14,7 @@ Client-side and server-side validations are done.
 4. Images of campgrounds are uploaded to Cloudinary. We can add multiple images for a campground. Images can be added and deleted after the creation of Campground solely by the logged in user.
 5. This project is being created using HTML,CSS, Node.js, Express, MongoDB, Javascript, EJS, and Bootstrap. Passport.js is used to handle authentication.
 
-# ORDER OF LANGUAGE USES
+# ORDER OF LANGUAGE USED
 
 Frontend - HTML,  Bootstrap and Javascript
 
